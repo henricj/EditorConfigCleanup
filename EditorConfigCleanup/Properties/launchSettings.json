@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "EditorConfigCleanup": {
+      "commandName": "Project",
+      "commandLineArgs": "\"C:\\src\\rootapp\\MIME\\Mime-Detective\\.editorconfig\""
+    }
+  }
+}
